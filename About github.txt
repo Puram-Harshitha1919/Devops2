@@ -1,3 +1,4 @@
 My name is Puram Harshitha
 #rd Year Computer Science-B
 GitHub means online platform it can store git projects
+Github is a website and cloud service where developers store and mange their code.
